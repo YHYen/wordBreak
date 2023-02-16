@@ -1,0 +1,3 @@
+剔除對話內容 : tran.py
+遇到。換行功能 : period.py
+字串轉list : StrToList.py
